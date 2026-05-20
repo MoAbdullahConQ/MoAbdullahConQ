@@ -19,8 +19,8 @@
 ---
 <h1 align="center">👨‍💻 About Me</h1>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
-<img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
 ```yaml
 name: Muhammed Abdullah
