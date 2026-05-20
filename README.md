@@ -44,7 +44,7 @@ interests:
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,c,kotlin,git,github,androidstudio,vscode,figma,postman,java,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,python,c,kotlin,git,github,androidstudio,vscode,figma,postman,java&theme=dark"/>
 </div>
 
 <br> 
