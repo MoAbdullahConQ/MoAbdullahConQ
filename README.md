@@ -52,17 +52,14 @@ interests:
 <div align="center">
 <img src="https://img.shields.io/badge/Clean%20Architecture-BLoC%20%26%20Cubit-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-Backend%20Integration-FFCA28?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-Integration-FFCA28?style=for-the-badge"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&fontSize=20&lineCount=6&theme=tokyonight&hideBorder=false&width=950&line1=flutter,Flutter,02569B;dart,Dart,0175C2;bloc,BLoC%2FCubit,8A2BE2;firebase,Firebase,FFCA28;restapi,REST%20API,00C2FF;supabase,Supabase,3ECF8E;sqlite,SQLite,003B57;hive,Hive,F2C94C;kotlin,Kotlin,7F52FF;&line2=java,Java,ED8B00;python,Python,3776AB;c,C,555555;cplusplus,C%2B%2B,00599C;xml,XML,E34F26;androidstudio,Android%20Studio,3DDC84;vscode,VS%20Code,007ACC;postman,Postman,FF6C37;github,GitHub,181717;&line3=git,Git,F05032;githubcopilot,Copilot,181717;chatgpt,ChatGPT,10A37F;claude,Claude,D97757;gemini,Gemini,4285F4;cursor,Cursor,ffffff;vercel,Vercel,ffffff;figma,Figma,F24E1E;notion,Notion,ffffff;&line4=trello,Trello,0079BF;jira,Jira,0052CC;slack,Slack,4A154B;discord,Discord,5865F2;markdown,Markdown,ffffff;cleanarchitecture,Clean%20Architecture,8A2BE2;mvvm,MVVM,FF6B6B;webview,WebView,4285F4;oop,OOP,8A2BE2;&line5=flutterweb,Flutter%20Web,38BDF8;notifications,Push%20Notifications,EF4444;websocket,WebSocket,06B6D4;datastructures,Data%20Structures,22C55E;uiux,UI%2FUX,FF69B4;debugging,Debugging,F59E0B;architecture,App%20Architecture,8A2BE2;&line6=responsive,Responsive%20UI,38BDF8;performance,Performance,22C55E;problemsolving,Problem%20Solving,F97316;research,Research,14B8A6;pdf,PDF%20Generation,F40F02;excel,Excel%20Processing,217346;n8n,n8n,6366F1;" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?hideTitle=true&align=center&fontSize=20&lineCount=6&lineHeight=4&theme=tokyonight&hideBorder=false&width=950&line1=flutter,Flutter,02569B;dart,Dart,0175C2;bloc,BLoC%2FCubit,8A2BE2;firebase,Firebase,FFCA28;restapi,REST%20API,00C2FF;supabase,Supabase,3ECF8E;sqlite,SQLite,003B57;hive,Hive,F2C94C;kotlin,Kotlin,7F52FF;&line2=java,Java,ED8B00;python,Python,3776AB;c,C,555555;cplusplus,C%2B%2B,00599C;xml,XML,E34F26;androidstudio,Android%20Studio,3DDC84;vscode,VS%20Code,007ACC;postman,Postman,FF6C37;github,GitHub,181717;&line3=git,Git,F05032;githubcopilot,Copilot,181717;chatgpt,ChatGPT,10A37F;claude,Claude,D97757;gemini,Gemini,4285F4;cursor,Cursor,ffffff;vercel,Vercel,ffffff;figma,Figma,F24E1E;notion,Notion,ffffff;&line4=trello,Trello,0079BF;jira,Jira,0052CC;slack,Slack,4A154B;discord,Discord,5865F2;markdown,Markdown,ffffff;cleanarchitecture,Clean%20Architecture,8A2BE2;mvvm,MVVM,FF6B6B;webview,WebView,4285F4;oop,OOP,8A2BE2;&line5=flutterweb,Flutter%20Web,38BDF8;notifications,Push%20Notifications,EF4444;websocket,WebSocket,06B6D4;datastructures,Data%20Structures,22C55E;uiux,UI%2FUX,FF69B4;debugging,Debugging,F59E0B;architecture,App%20Architecture,8A2BE2;&line6=responsive,Responsive%20UI,38BDF8;performance,Performance,22C55E;problemsolving,Problem%20Solving,F97316;research,Research,14B8A6;pdf,PDF%20Generation,F40F02;excel,Excel%20Processing,217346;n8n,n8n,6366F1;" />
 </div>
-
-
-
 
 ---
 
