@@ -6,18 +6,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Flutter+Developer;Mobile+Application+Developer;Building+Modern+Apps+With+Flutter;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=MoAbdullahConQ&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Mobile%20Apps-Flutter%20%26%20Firebase-0175C2?style=flat-square&logo=firebase&logoColor=white" alt="Mobile Apps"/>
+</p>
 
 ---
-
-<div align="center">
-
-### 🚀 Building modern mobile applications with Flutter
-
-</div>
-
----
-
-<br>
 
 ## 👨‍💻 About Me
 
