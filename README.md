@@ -17,7 +17,7 @@
 </p>
 
 ---
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 About Me</h1>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 <img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
@@ -39,7 +39,7 @@ interests:
 ```
 ---
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h1>
 
 <br>
 
@@ -64,25 +64,23 @@ interests:
 ---
 
 
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Analytics</h1>
+
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoAbdullahConQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAbdullahConQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
+<!-- MAIN STATS -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MoAbdullahConQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAbdullahConQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
-<br>
-
 <div align="center">
-
+<!-- STREAK -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoAbdullahConQ&theme=tokyonight&hide_border=true&background=0D1117" />
-
 </div>
-
----
+<div align="center">
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoAbdullahConQ&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
 
 # 🐍 Contribution Snake
 
