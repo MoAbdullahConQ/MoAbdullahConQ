@@ -15,22 +15,31 @@
 
 </div>
 
+---
+
 <br>
 
-# 🌌 About Me
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
 ```yaml
 name: Muhammed Abdullah
+role: Flutter Developer
 located_in: Egypt
-current_focus: Flutter & Mobile Applications
-learning: Advanced Flutter Architecture
+
+current_focus:
+  - Flutter & Mobile Applications
+  - Clean Architecture
+
 interests:
   - Mobile Development
-  - Clean Architecture
   - Firebase
   - UI/UX
   - Python
 ```
+
+<br clear="right"/>
 
 ---
 
