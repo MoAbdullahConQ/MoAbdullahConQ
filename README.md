@@ -1,9 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:8b5cf6&text=Muhammed%20Abdullah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=true&lines=Hi+👋+;I'm+Muhammed+Abdullah" alt="Typing SVG" />
 
-<h1 align="center">Hi 👋 I'm Muhammed Abdullah</h1>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Flutter+Developer;Mobile+Application+Developer;Building+Modern+Apps+With+Flutter;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&repeat=true&lines=Flutter+Developer;Mobile+Application+Developer;Building+Modern+Apps+With+Flutter;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+<br>
 
 </div>
 <p align="center">  
