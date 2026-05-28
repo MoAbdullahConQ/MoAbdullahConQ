@@ -62,21 +62,18 @@ interests:
 </div>
 
 ---
-
-# 📱 Featured Projects
+<h1 align="center">📱 Featured Projects</h1>
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 📦 Flutter E-Commerce App | Modern clean architecture app |
-| 🕌 Prayer App | Azan & prayer notifications |
-| 🖨️ PDF Generator | Dynamic PDF generation from Excel |
-| 🌐 WebView Apps | Production-ready Flutter WebView apps |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📦 **Flutter E-Commerce App** | Modern clean architecture app | `Flutter` `BLoC` `Firebase` `Sqflite` |
+| 🕌 **Prayer App** | Azan & prayer notifications | `Flutter` `Cubit` `Hive` `WorkManager` |
+| 🖨️ **PDF Generator** | Dynamic PDF generation from Excel | `Flutter` `Dart` `Excel API` |
+| 🌐 **WebView Apps** | Production-ready Flutter WebView apps | `Flutter` `Webview Flutter` |
 
 </div>
-
----
 
 
 <h1 align="center">📊 GitHub Analytics</h1>
