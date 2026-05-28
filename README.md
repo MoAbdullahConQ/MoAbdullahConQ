@@ -6,7 +6,6 @@
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&repeat=true&lines=Flutter+Developer;Mobile+Application+Developer;Building+Modern+Apps+With+Flutter;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
 <br>
 
 </div>
@@ -17,6 +16,7 @@
 </p>
 
 ---
+ذذذ
 <h1 align="center">👨‍💻 About Me</h1>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
@@ -75,6 +75,7 @@ interests:
 
 </div>
 
+---
 
 <h1 align="center">📊 GitHub Analytics</h1>
 
