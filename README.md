@@ -95,10 +95,12 @@ interests:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoAbdullahConQ&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
-# 🐍 Contribution Snake
+---
+
+<h1 align="center">🐍 Contribution Snake</h1>
 
 <div align="center">
-
+  
 [<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 ](https://raw.githubusercontent.com/MoAbdullahConQ/MoAbdullahConQ/output/github-contribution-grid-snake-dark.svg)
 
@@ -106,7 +108,8 @@ interests:
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammed-bn-abdullah/">
