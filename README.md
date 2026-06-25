@@ -97,11 +97,11 @@ interests:
 
 ---
 
-<h1 align="center">🐍 Contribution Snake</h1>
+<h1 align="center">🐍 GitHub Contribution</h1>
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+[<img src="https://raw.githubusercontent.com/MoAbdullahConQ/MoAbdullahConQ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 ](https://raw.githubusercontent.com/MoAbdullahConQ/MoAbdullahConQ/output/github-contribution-grid-snake-dark.svg)
 
 </div>
