@@ -122,15 +122,32 @@ interests:
 
 ---
 
-<h1 align="center">🌐 Connect With Me</h1>
+<h1 align="center">🌐 Let's Connect!</h1>
 
+<p align="center">
+  Feel free to reach out to me for collaborations, freelance projects, or just to say hi!
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammed-bn-abdullah/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/muhammed-bn-abdullah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/MoAbdullahConQ" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-MoAbdullahConQ-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://web.facebook.com/mohamed.abdullah.919362/" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-Mohamed%20Abdullah-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <a href="mailto:muhammed.abdullah.01155849512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Muhmed_AbdUlla" target="_blank">
+    <img src="https://img.shields.io/badge/X-@Muhmed__AbdUlla-181717?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
