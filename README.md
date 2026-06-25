@@ -29,7 +29,7 @@ located_in: Egypt
 
 contact:
   email: muhammed.abdullah.01155849512@gmail.com
-linkedin: https://www.linkedin.com/in/muhammed-bn-abdullah
+  linkedin: muhammed-bn-abdullah
 
 current_focus:
   - Flutter & Mobile Applications
