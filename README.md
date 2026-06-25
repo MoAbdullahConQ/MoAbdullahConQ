@@ -73,19 +73,21 @@ interests:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🎓 **Gameaty-Uni** | University platform with scalable architecture, advanced UI, and structured state management | `Flutter` `BLoC` `Clean Architecture` `API Integration` |
-| 🕌 **Salatuk-First** | Azan & prayer notifications | `Flutter` `Cubit` `Hive` `WorkManager` |
-| 📖 **DEPI-LMS** | Learning Management System to DEPI Strudents | `Flutter` `API Integration` `BLoC` `Clean Architecture`
-| 🛒 **Fruit Hub** | E-commerce system with full user flow + admin dashboard integration | `Flutter` `Firebase` `Dashboard` |
-| 🌐 **WebView WSITK** | Production-ready Flutter WebView apps | `Flutter` `Webview Flutter` |
-| 📚 **Bookly (Clean Architecture)** | Book browsing app built with clean architecture principles and separation of concerns | `Flutter` `BLoC` `Clean Architecture` |
-| 🛍️ **RooOrder** | Ordering system application with backend integration (fork-based production system) | `Flutter` `API Integration` |
-| 🏷️ **Label App** | Data-driven application generating structured labels and outputs for business use cases | `Flutter` `Data Processing` |
-| 🧪 **Experimental & Academic Projects** | Graduation projects, AI/vision experiments, and low-level system apps | `Python` `C++` `Java` |
+| 🎓 [**Gameaty-Uni**](https://github.com/MoAbdullahConQ/Uni) | University platform with scalable architecture, advanced UI, and structured state management | `Flutter` `BLoC` `Clean Architecture` `API Integration` |
+| 🤖 [**git-ai-cli**](https://github.com/MoAbdullahConQ/git-ai-cli) | Global AI-powered CLI tool that analyzes git diffs to generate smart Conventional Commit messages | `JavaScript` `Node.js` `AI API` `CLI` |
+| 🕌 [**Salatuk-First**](https://github.com/MoAbdullahConQ/Salatuk-First) | Azan & prayer notifications app with background task management | `Flutter` `Cubit` `Hive` `WorkManager` |
+| 📖 [**DEPI-LMS**](https://github.com/MoAbdullahConQ/DEPI-LMS) | Learning Management System tailored for DEPI Students | `Flutter` `API Integration` `BLoC` `Clean Architecture` |
+| 🔍 [**Lost & Found App**](https://github.com/MoAbdullahConQ/Lost-And-Found-App) | University-focused item tracker featuring real-time Firebase syncing, search filters, and an admin dashboard. | `Flutter` `Firebase` `Real-time DB` `Dashboard` |
+| 🛒 [**Fruit Hub**](https://github.com/MoAbdullahConQ/Fruit-Hub) | E-commerce system with full user flow + admin dashboard integration | `Flutter` `Firebase` `Dashboard` |
+| 🛍️ [**RooOrder**](https://github.com/MoAbdullahConQ/RooOrder) | Ordering ecosystem application with backend and production API integration | `Flutter` `API Integration` |
+| 🌐 [**WebView WSITK**](https://github.com/MoAbdullahConQ/WSITK) | Production-ready Flutter WebView application framework | `Flutter` `Webview Flutter` |
+| 📚 [**Bookly**](https://github.com/MoAbdullahConQ/Bookly-Clean-Arch) | Book browsing app built strictly with clean architecture principles and separation of concerns | `Flutter` `BLoC` `Clean Architecture` |
+| 📱 [**Be My Arm**](https://github.com/MoAbdullahConQ/Graduation-Project-Mobile) | The official mobile ecosystem integration for the graduation project, enabling smart mobile accessibility. | `Flutter` `Dart` `Mobile Integration` |
+| 🎓 [**Visionary Mouse Control**](https://github.com/MoAbdullahConQ/Visionary-Mouse-Control-Be-My-Arm-Graduation-Project) | Python-based AI core for hands-free computer control using facial gestures/eye tracking to assist people with disabilities. | `Python` `AI & Computer Vision` `Accessibility` |
+| 🏷️ [**Label App**](https://github.com/MoAbdullahConQ/Label-App) | Data-driven application generating structured labels and outputs for business use cases | `Flutter` `Data Processing` |
 
 💡 More projects available on my GitHub including mobile apps, graduation systems, AI experiments, and Flutter UI challenges.
 </div>
-
 
 ---
 
