@@ -62,16 +62,22 @@ interests:
 </div>
 
 ---
-<h1 align="center">📱 Featured Projects</h1>
+
+<h1 align="center">📱 Featured Projects</h1> 
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📦 **Flutter E-Commerce App** | Modern clean architecture app | `Flutter` `BLoC` `Firebase` `Sqflite` |
-| 🕌 **Prayer App** | Azan & prayer notifications | `Flutter` `Cubit` `Hive` `WorkManager` |
-| 🖨️ **PDF Generator** | Dynamic PDF generation from Excel | `Flutter` `Dart` `Excel API` |
-| 🌐 **WebView Apps** | Production-ready Flutter WebView apps | `Flutter` `Webview Flutter` |
+| 🎓 **Gameaty-Uni** | University platform with scalable architecture, advanced UI, and structured state management | `Flutter` `BLoC` `Clean Architecture` `API Integration` |
+| 🕌 **Salatuk-First** | Azan & prayer notifications | `Flutter` `Cubit` `Hive` `WorkManager` |
+| 📖 **DEPI-LMS** | Learning Management System to DEPI Strudents | `Flutter` `API Integration` `BLoC` `Clean Architecture`
+| 🛒 **Fruit Hub** | E-commerce system with full user flow + admin dashboard integration | `Flutter` `Firebase` `Dashboard` |
+| 🌐 **WebView WSITK** | Production-ready Flutter WebView apps | `Flutter` `Webview Flutter` |
+| 📚 **Bookly (Clean Architecture)** | Book browsing app built with clean architecture principles and separation of concerns | `Flutter` `BLoC` `Clean Architecture` |
+| 🛍️ **RooOrder** | Ordering system application with backend integration (fork-based production system) | `Flutter` `API Integration` |
+| 🏷️ **Label App** | Data-driven application generating structured labels and outputs for business use cases | `Flutter` `Data Processing` |
+| 🧪 **Experimental & Academic Projects** | Graduation projects, AI/vision experiments, and low-level system apps | `Python` `C++` `Java` |
 
 </div>
 
