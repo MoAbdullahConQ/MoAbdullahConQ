@@ -79,7 +79,9 @@ interests:
 | 🏷️ **Label App** | Data-driven application generating structured labels and outputs for business use cases | `Flutter` `Data Processing` |
 | 🧪 **Experimental & Academic Projects** | Graduation projects, AI/vision experiments, and low-level system apps | `Python` `C++` `Java` |
 
+💡 More projects available on my GitHub including mobile apps, graduation systems, AI experiments, and Flutter UI challenges.
 </div>
+
 
 ---
 
