@@ -27,15 +27,19 @@ name: Muhammed Abdullah
 role: Flutter Developer
 located_in: Egypt
 
+contact:
+  email: muhammed.abdullah.01155849512@gmail.com
+linkedin: https://www.linkedin.com/in/muhammed-bn-abdullah
+
 current_focus:
   - Flutter & Mobile Applications
   - Clean Architecture
 
 interests:
-  - Mobile Development
-  - Firebase
-  - UI/UX
-  - Python
+  - Mobile Development
+  - Firebase & Supabase
+  - UI/UX Design
+  - Python & DevTools Automation
 ```
 ---
 
